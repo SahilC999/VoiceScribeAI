@@ -48,7 +48,7 @@ cd VoiceScribeAI
 
 2. Install Dependencies
 npm install
-# or
+or
 yarn install
 
 
