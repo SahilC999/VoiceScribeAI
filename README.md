@@ -41,13 +41,17 @@ summarization-app/
 ## 📦 Getting Started
 
 ### 1. Clone the Repo
-```bash
+
 git clone https://github.com/SahilC999/VoiceScribeAI.git
 cd VoiceScribeAI
+
+
 2. Install Dependencies
 npm install
 # or
 yarn install
+
+
 3. Set Up Environment Variables
 Create a .env file and add your Google AI keys or Firebase config as needed.
 
