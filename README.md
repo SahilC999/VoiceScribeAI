@@ -34,9 +34,7 @@ summarization-app/
 ├── .env # Environment variables
 └── genkit.config.ts # Genkit setup
 
-yaml
-Copy
-Edit
+
 
 ---
 
