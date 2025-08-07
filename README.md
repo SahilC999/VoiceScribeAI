@@ -45,9 +45,6 @@ summarization-app/
 git clone https://github.com/SahilC999/VoiceScribeAI.git
 cd VoiceScribeAI
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
 # or
 yarn install
@@ -55,9 +52,6 @@ yarn install
 Create a .env file and add your Google AI keys or Firebase config as needed.
 
 4. Run the Development Server
-bash
-Copy
-Edit
 npm run dev
 🧠 Example Use Case
 Upload an audio file → Convert to text → Summarize or translate it → View output instantly in the browser.
@@ -66,13 +60,9 @@ Upload an audio file → Convert to text → Summarize or translate it → View 
 VoiceScribeAI can be easily deployed on:
 
 Firebase Hosting
-
 Vercel
-
 Netlify
 
-📄 License
-MIT License. Free to use, modify, and distribute.
 
 🙌 Credits
 Built using Genkit by Google.
